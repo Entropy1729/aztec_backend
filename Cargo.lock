@@ -151,7 +151,7 @@ dependencies = [
 [[package]]
 name = "barretenberg_wrapper"
 version = "0.1.0"
-source = "git+https://github.com/AztecProtocol/barretenberg?rev=804c7dcf21111acd1302a768a8fa2f453dcec50f#804c7dcf21111acd1302a768a8fa2f453dcec50f"
+source = "git+https://github.com/AztecProtocol/barretenberg?rev=bb09420f1ed3af7209f5b97d36904d87f8f31a9b#bb09420f1ed3af7209f5b97d36904d87f8f31a9b"
 dependencies = [
  "cmake",
  "hex",
